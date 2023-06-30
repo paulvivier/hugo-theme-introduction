@@ -1,6 +1,6 @@
 ---
-title: "Hi, I'm Introduction"
+title: "c paul vivier"
 headless: true
 ---
 
-I'm a theme for Hugo.
+artist, gardener, maker, designer
